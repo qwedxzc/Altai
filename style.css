@@ -164,4 +164,8 @@ body {
     .header{
         height: 500px;
     }
+
+    .footer__nav{
+        flex-direction: column;
+    }
 }
